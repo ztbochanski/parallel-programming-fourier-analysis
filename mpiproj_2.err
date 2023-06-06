@@ -1,0 +1,3 @@
+Node   0 entered DoOneLocalFourier( )
+Node   1 entered DoOneLocalFourier( )
+  2 processors,    1048576 elements,     85.79 mega-multiplies computed per second
